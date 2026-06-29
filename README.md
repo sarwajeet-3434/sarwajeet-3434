@@ -1,26 +1,96 @@
-<h1 align="center">Hi 👋, I'm Sarwajeet Pratap Singh</h1>
-<h3 align="center">A passionate Front-end developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarwajeet-3434&label=Profile%20views&color=0e75b6&style=flat" alt="sarwajeet-3434" /> </p>
-
-- 🌱 I’m currently learning **Python and DSA in Java**
-
-- 💬 Ask me about **C and Python**
-
-- 📫 How to reach me **sarwajeetpsingh3434@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sarwajeet_3434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarwajeet_3434" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sarwajeet-pratap-singh-072116256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarwajeet-pratap-singh-072116256" height="30" width="40" /></a>
-<a href="https://instagram.com/sarwajeet.3434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarwajeet.3434" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarwajeet-3434&show_icons=true&locale=en&layout=compact" alt="sarwajeet-3434" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarwajeet-3434&show_icons=true&locale=en" alt="sarwajeet-3434" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarwajeet-3434&" alt="sarwajeet-3434" /></p>
+<div align="center">
+# Hey, I'm Sarwajeet Singh 👋
+ 
+**CS undergrad · AWS Certified Cloud Practitioner · Builder**
+ 
+*Pune, India · B.Tech @ D.Y. Patil International University (2022–2026)*
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sarwajeetpsingh3434@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
+ 
+</div>
+---
+ 
+## About Me
+ 
+I'm a final-year Computer Science student who likes building things that actually work — whether that's a crop-yield prediction model hitting 92% accuracy or a full-stack event management system from scratch. I'm AWS certified, comfortable across the data and web stacks, and always looking for the next problem worth solving.
+ 
+- 🏆 **2nd Rank, Smart India Hackathon 2024** — built *CULTURA*, an innovation-meets-execution project under pressure
+- 🥉 **3rd Runner-Up, SCM International Conference** — research, analysis, and presenting to a real audience
+- ☁️ Currently deepening my cloud + infrastructure skills beyond the practitioner cert
+---
+ 
+## Tech Stack
+ 
+**Languages & Data**
+```
+Python · SQL · MySQL · Pandas · NumPy · Scikit-learn
+```
+ 
+**Cloud & Infrastructure**
+```
+AWS (EC2 · S3 · IAM · Lambda) · Security & Networking
+```
+ 
+**Web**
+```
+HTML · CSS · JavaScript · REST APIs
+```
+ 
+**Tooling**
+```
+Git · GitHub · VS Code · Jupyter Notebook
+```
+ 
+---
+ 
+## Projects
+ 
+### 🌾 AI-Driven Crop Yield & Climate Risk Prediction *(Jan – May 2026)*
+Built an end-to-end ML pipeline to predict agricultural yield and flag climate risks from real-world datasets.
+- Feature engineering + model optimization with Scikit-learn
+- **92% prediction accuracy** on test data
+- Matplotlib dashboards for visual insight delivery
+---
+ 
+### 📅 Event Management System *(Jan – Feb 2024)*
+Full-stack web app for event registrations and scheduling — secure auth, admin dashboard, MySQL backend.
+- REST-based scalable architecture
+- Clean separation between frontend UI and data layer
+---
+ 
+## Experience
+ 
+| Role | Company | Period |
+|------|---------|--------|
+| Data Analyst Intern | Adept Infra, Lucknow | May – Jul 2025 |
+| Web Developer Intern | Adept Infra, Lucknow | May – Jul 2024 |
+ 
+At Adept Infra I worked on both ends of the stack — building dashboards and KPI monitors as an analyst, and designing responsive internal interfaces as a web developer.
+ 
+---
+ 
+## Certifications
+ 
+- ☁️ **AWS Certified Cloud Practitioner** — Amazon Web Services
+- 📊 **Data Science Certification** — Adhyayan Institute
+- 📈 **Data Analyst Certification** — OneRoadmap
+- 🤖 **Machine Learning** — Udemy
+---
+ 
+## GitHub Stats
+ 
+<div align="center">
+![Sarwajeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+ 
+</div>
+---
+ 
+<div align="center">
+*Open to internships, collaborations, and interesting problems.*
+**Let's build something worth shipping.**
+ 
+</div>
