@@ -1,5 +1,5 @@
 <div align="center">
-# Hey, I'm Sarwajeet Singh 👋
+## Hey, I'm Sarwajeet Singh 👋
  
 **CS undergrad · AWS Certified Cloud Practitioner · Builder**
  
